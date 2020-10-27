@@ -1,0 +1,4 @@
+com\mycompany\bmi\App.class
+com\mycompany\bmi\SecondaryController.class
+module-info.class
+com\mycompany\bmi\PrimaryController.class
